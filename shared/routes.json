@@ -1,0 +1,63 @@
+[
+  {
+    "path": "/",
+    "title": "Kaayra Herbals | Ancient wisdom. Thoughtfully yours.",
+    "description": "Kaayra Herbals is a new Indian Ayurvedic wellness company. Our formulations are still in development. Follow our approach and join the launch list."
+  },
+  {
+    "path": "/our-story",
+    "title": "Our Story | Kaayra Herbals",
+    "description": "Why Kaayra Herbals is taking its time: a new Indian Ayurvedic wellness company building carefully before it sells anything."
+  },
+  {
+    "path": "/our-approach",
+    "title": "Our Approach | Kaayra Herbals",
+    "description": "How Kaayra develops formulations: sourcing, safety, quality, regulatory review and ingredient transparency before any launch."
+  },
+  {
+    "path": "/journal",
+    "title": "Journal | Kaayra Herbals",
+    "description": "Educational reading on Ayurveda, ingredients and responsible product development. Information only, not medical advice."
+  },
+  {
+    "path": "/journal/reading-an-ayurvedic-label",
+    "title": "Reading an Ayurvedic label | Kaayra Journal",
+    "description": "What an ingredient list can tell you, what it cannot, and the questions worth asking about any herbal product.",
+    "type": "article",
+    "date": "2026-10-14"
+  },
+  {
+    "path": "/journal/prakriti-a-traditional-idea",
+    "title": "Prakriti: a traditional idea, not a diagnosis | Kaayra Journal",
+    "description": "A plain introduction to Prakriti in Ayurveda, and why an online quiz cannot replace a qualified practitioner.",
+    "type": "article",
+    "date": "2026-10-14"
+  },
+  {
+    "path": "/journal/from-classical-text-to-formulation",
+    "title": "From classical text to formulation | Kaayra Journal",
+    "description": "The questions we ask when a classical Ayurvedic preparation is considered for a modern product.",
+    "type": "article",
+    "date": "2026-10-14"
+  },
+  {
+    "path": "/product-development",
+    "title": "Product Development | Kaayra Herbals",
+    "description": "An honest view of what Kaayra is exploring. Nothing here is for sale, and no product has been approved or tested."
+  },
+  {
+    "path": "/contact",
+    "title": "Contact | Kaayra Herbals",
+    "description": "Get in touch with Kaayra Herbals."
+  },
+  {
+    "path": "/privacy",
+    "title": "Privacy Policy | Kaayra Herbals",
+    "description": "How Kaayra Herbals handles launch-list sign-ups and website data."
+  },
+  {
+    "path": "/legal",
+    "title": "Terms and Disclaimer | Kaayra Herbals",
+    "description": "Website terms, educational-content disclaimer and product status for Kaayra Herbals."
+  }
+]
